@@ -85,4 +85,5 @@ class GradeCalculator:
         
     @staticmethod
     def calculate_min_marks_required():
+        #test commit
         pass
