@@ -82,3 +82,7 @@ class GradeCalculator:
             return 'D'
         else:
             return 'F'
+        
+    #new function added    
+    def calculate_grade_overall(Grades, weights:GradeWeights) -> float:
+        pass
