@@ -84,5 +84,5 @@ class GradeCalculator:
             return 'F'
         
     @staticmethod
-    def calculate_min_marks_required()
+    def calculate_min_marks_required():
         pass
