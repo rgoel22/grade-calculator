@@ -70,6 +70,8 @@ class GradeCalculator:
         if percentage_grade is None:
             return None
         
+        
+        
         # Return the letter that corresponds to
         # the percentage cutoff
         if percentage_grade >= 0.91:
@@ -82,7 +84,3 @@ class GradeCalculator:
             return 'D'
         else:
             return 'F'
-        
-    #new function added    
-    def calculate_grade_overall(Grades, weights:GradeWeights) -> float:
-        pass
