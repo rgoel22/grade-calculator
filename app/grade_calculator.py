@@ -83,4 +83,4 @@ class GradeCalculator:
         elif percentage_grade >= 0.6:
             return 'D'
         else:
-            return 'F'
+            return 'FF'
